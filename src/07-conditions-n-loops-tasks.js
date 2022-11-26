@@ -139,7 +139,7 @@ function isTriangle(a, b, c) {
  *
  */
 function doRectanglesOverlap(rect1, rect2) {
-  const xCrossing = 
+  throw new Error('Not implemented');
 }
 
 
